@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Spielen","l":"Addition"},{"p":"Spielen","l":"AdditionInterface"},{"p":"Spielen","l":"Client"},{"p":"Spielen","l":"MainPlay"},{"p":"Spielen","l":"MemoryCards"},{"p":"Spielen","l":"MemoryServer"},{"p":"Spielen","l":"Menue"},{"p":"Spielen","l":"PlayingBoard"},{"p":"Spielen","l":"RemoteInterface"}]
